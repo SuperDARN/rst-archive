@@ -1,0 +1,34 @@
+/* do_phase_fit.h
+   ==============
+   Author: K.Baker
+*/
+
+/*
+ (c) 2012 JHU/APL & Others - Please Consult LICENSE.superdarn-rst.3.3-6-g9146b14.txt for more information.
+ 
+ 
+ 
+*/
+
+
+
+int do_phase_fit(double omega_guess, 
+		  char xflag, 
+		  int mplgs,
+		  struct complex *acf,
+		  double *tau,
+		  double *w,
+		  double *sum_wk2_arr,
+		  double *phi_res,
+		  int *badlag,
+		  double t0,
+		  double sum_w,
+		  double sum_wk,
+		  double sum_wk2,
+		  
+		  double *omega,
+		  double *phi0,
+		  double *sdev,
+		  double *phi0_err,
+		  double *omega_err);
+

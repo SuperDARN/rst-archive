@@ -1,0 +1,11 @@
+commit edb2b78f2471c893bae8f58297afa8be4e0366a7
+Author: Code Development Account <code@linux-pc.jhuapl.edu>
+Date:   Wed Dec 8 20:17:57 2010 -0500
+
+    Support for dynamic loading
+
+commit 079a664d2e5b45260668f15816fa784204a08a2f
+Author: Code Development Account <code@linux-pc.jhuapl.edu>
+Date:   Tue Dec 7 16:55:54 2010 -0500
+
+    Christmas Valley East site library.
