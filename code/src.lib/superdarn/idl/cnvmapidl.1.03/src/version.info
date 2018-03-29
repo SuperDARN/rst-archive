@@ -1,0 +1,12 @@
+# $Log: version.info,v $
+# Revision 1.3  2008/03/25 16:18:03  code
+# Fixed pointer sign.
+#
+# Revision 1.2  2004/11/03 23:35:47  barnes
+# Fixed minor cosmetic bug.
+#
+# Revision 1.1  2004/11/03 22:55:34  barnes
+# Initial revision
+#
+#
+cnvmapidl.c 1.03

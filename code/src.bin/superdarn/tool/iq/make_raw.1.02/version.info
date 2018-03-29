@@ -1,0 +1,9 @@
+# $Log: version.info,v $
+# Revision 1.2  2008/03/19 00:21:16  code
+# Fixed some problems with loading lag tables.
+#
+# Revision 1.1  2008/03/18 21:52:05  code
+# Initial revision
+#
+#
+make_raw.c 1.02

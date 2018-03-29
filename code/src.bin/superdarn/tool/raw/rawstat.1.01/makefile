@@ -1,0 +1,15 @@
+# Makefile for rawstat
+# ====================
+# Author: R.J.Barnes
+#
+#
+
+INCLUDE=-I$(IPATH)/base -I$(IPATH)/general -I$(IPATH)/superdarn
+OBJS = rawstat.o
+SRC=rawstat.c hlpstr.h errstr.h
+OUTPUT = $(BINPATH)/rawstat
+LIBS=-loldraw.1 -lraw.1  -ldmap.1 -lopt.1 -lrtime.1 -lrcnv.1
+SLIB=-lm
+include $(MAKEBIN)
+ 
+
