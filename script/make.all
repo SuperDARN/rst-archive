@@ -1,0 +1,5 @@
+#!/bin/sh
+
+sh ${HOMEPATH}/script/make.lib
+sh ${HOMEPATH}/script/make.bin                                                       
+
