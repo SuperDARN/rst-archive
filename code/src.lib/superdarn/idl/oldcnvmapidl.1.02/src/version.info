@@ -1,0 +1,9 @@
+# $Log: version.info,v $
+# Revision 1.2  2008/03/25 16:19:36  code
+# Fixed pointer sign.
+#
+# Revision 1.1  2004/11/03 23:34:15  barnes
+# Initial revision
+#
+#
+oldcnvmapidl.c 1.02

@@ -1,0 +1,9 @@
+# $Log: version.info,v $
+# Revision 1.2  2008/03/25 16:20:20  code
+# Fixed pointer sign.
+#
+# Revision 1.1  2004/11/02 22:27:59  barnes
+# Initial revision
+#
+#
+oldgrdidl.c 1.02

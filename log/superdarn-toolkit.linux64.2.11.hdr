@@ -1,0 +1,282 @@
+insthdr
+Package Source Directory:../../code/src.lib/base
+Destination Directory:base
+Abort on failure:yes
+Link most recent version of headers:yes
+================================================================================
+Creating destination directory.
+Located Libraries:
+1.../../code/src.lib/base/graphic/ps.1.03
+2.../../code/src.lib/base/graphic/xwin.1.03
+3.../../code/src.lib/base/graphic/rplot.1.02
+4.../../code/src.lib/base/graphic/rplotin.1.03
+5.../../code/src.lib/base/graphic/fbuffer.1.06
+6.../../code/src.lib/base/graphic/fontdb.1.05
+7.../../code/src.lib/base/graphic/fbpsrplot.1.03
+8.../../code/src.lib/base/graphic/imagedb.1.01
+9.../../code/src.lib/base/math/rmath.1.07
+10.../../code/src.lib/base/task/convert.1.05
+11.../../code/src.lib/base/task/option.1.05
+12.../../code/src.lib/base/task/rtypes.1.01
+13.../../code/src.lib/base/tcpip/cnx.1.09
+14.../../code/src.lib/base/web/cgi.1.02
+15.../../code/src.lib/base/web/script.1.03
+16.../../code/src.lib/base/xml/xml.1.03
+17.../../code/src.lib/base/xml/tagdb.1.03
+18.../../code/src.lib/base/xml/xmldb.1.02
+19.../../code/src.lib/base/xml/xmldoc.1.02
+================================================================================
+../../code/src.lib/base/graphic/ps.1.03/include/rps.h -> ./rps.h
+../../code/src.lib/base/graphic/xwin.1.03/include/xwin.h -> ./xwin.h
+../../code/src.lib/base/graphic/rplot.1.02/include/rplot.h -> ./rplot.h
+../../code/src.lib/base/graphic/rplotin.1.03/include/rplotin.h -> ./rplotin.h
+../../code/src.lib/base/graphic/fbuffer.1.06/include/rfbuffer.h -> ./rfbuffer.h
+../../code/src.lib/base/graphic/fontdb.1.05/include/fontdb.h -> ./fontdb.h
+../../code/src.lib/base/graphic/fbpsrplot.1.03/include/rplotrplot.h -> ./rplotrplot.h
+../../code/src.lib/base/graphic/fbpsrplot.1.03/include/psrplot.h -> ./psrplot.h
+../../code/src.lib/base/graphic/fbpsrplot.1.03/include/fbrplot.h -> ./fbrplot.h
+../../code/src.lib/base/graphic/imagedb.1.01/include/imagedb.h -> ./imagedb.h
+../../code/src.lib/base/math/rmath.1.07/include/fft.h -> ./fft.h
+../../code/src.lib/base/math/rmath.1.07/include/rmath.h -> ./rmath.h
+../../code/src.lib/base/math/rmath.1.07/include/nrfit.h -> ./nrfit.h
+../../code/src.lib/base/task/convert.1.05/include/rconvert.h -> ./rconvert.h
+../../code/src.lib/base/task/option.1.05/include/option.h -> ./option.h
+../../code/src.lib/base/task/rtypes.1.01/include/rtypes.h -> ./rtypes.h
+../../code/src.lib/base/tcpip/cnx.1.09/include/connex.h -> ./connex.h
+../../code/src.lib/base/web/cgi.1.02/include/rcgi.h -> ./rcgi.h
+../../code/src.lib/base/web/script.1.03/include/rscript.h -> ./rscript.h
+../../code/src.lib/base/web/script.1.03/include/rscriptHTML.h -> ./rscriptHTML.h
+../../code/src.lib/base/xml/xml.1.03/include/rxml.h -> ./rxml.h
+../../code/src.lib/base/xml/tagdb.1.03/include/tagdb.h -> ./tagdb.h
+../../code/src.lib/base/xml/xmldb.1.02/include/entity.h -> ./entity.h
+../../code/src.lib/base/xml/xmldb.1.02/include/rxmldb.h -> ./rxmldb.h
+../../code/src.lib/base/xml/xmldoc.1.02/include/rxmldoc.h -> ./rxmldoc.h
+insthdr
+Package Source Directory:../../code/src.lib/general
+Destination Directory:general
+Abort on failure:yes
+Link most recent version of headers:yes
+================================================================================
+Creating destination directory.
+Located Libraries:
+1.../../code/src.lib/general/map.1.08
+2.../../code/src.lib/general/dmap.1.15
+3.../../code/src.lib/general/eval.1.03
+4.../../code/src.lib/general/nnet.1.06
+5.../../code/src.lib/general/plot.1.04
+6.../../code/src.lib/general/time.1.03
+7.../../code/src.lib/general/contour.1.04
+8.../../code/src.lib/general/rfile.1.06
+9.../../code/src.lib/general/grplot.1.05
+10.../../code/src.lib/general/raster.1.03
+11.../../code/src.lib/general/stdkey.1.03
+12.../../code/src.lib/general/polygon.1.04
+================================================================================
+../../code/src.lib/general/map.1.08/include/rmap.h -> ./rmap.h
+../../code/src.lib/general/dmap.1.15/include/dmap.h -> ./dmap.h
+../../code/src.lib/general/eval.1.03/include/reval.h -> ./reval.h
+../../code/src.lib/general/nnet.1.06/include/rnnet.h -> ./rnnet.h
+../../code/src.lib/general/plot.1.04/include/rplotgraw.h -> ./rplotgraw.h
+../../code/src.lib/general/plot.1.04/include/rplotg.h -> ./rplotg.h
+../../code/src.lib/general/plot.1.04/include/rplotgstd.h -> ./rplotgstd.h
+../../code/src.lib/general/time.1.03/include/rtime.h -> ./rtime.h
+../../code/src.lib/general/contour.1.04/include/contour.h -> ./contour.h
+../../code/src.lib/general/rfile.1.06/include/rfile.h -> ./rfile.h
+../../code/src.lib/general/grplot.1.05/include/grplot.h -> ./grplot.h
+../../code/src.lib/general/raster.1.03/include/raster.h -> ./raster.h
+../../code/src.lib/general/polygon.1.04/include/polygon.h -> ./polygon.h
+insthdr
+Package Source Directory:../../code/src.lib/analysis
+Destination Directory:analysis
+Abort on failure:yes
+Link most recent version of headers:yes
+================================================================================
+Creating destination directory.
+Located Libraries:
+1.../../code/src.lib/analysis/cdf/rcdf.1.02
+2.../../code/src.lib/analysis/geop/geop.1.02
+3.../../code/src.lib/analysis/geop/geopidl.1.03
+4.../../code/src.lib/analysis/igrf/igrf.1.08
+5.../../code/src.lib/analysis/igrf/igrfidl.1.01
+6.../../code/src.lib/analysis/sgp4/sgp4.1.02
+7.../../code/src.lib/analysis/aacgm/aacgmidl.1.03
+8.../../code/src.lib/analysis/aacgm/aacgm.1.10
+================================================================================
+../../code/src.lib/analysis/cdf/rcdf.1.02/include/rcdf.h -> ./rcdf.h
+../../code/src.lib/analysis/geop/geop.1.02/include/geop.h -> ./geop.h
+../../code/src.lib/analysis/igrf/igrf.1.08/include/magcmp.h -> ./magcmp.h
+../../code/src.lib/analysis/igrf/igrf.1.08/include/igrfcall.h -> ./igrfcall.h
+../../code/src.lib/analysis/sgp4/sgp4.1.02/include/sgp4.h -> ./sgp4.h
+../../code/src.lib/analysis/aacgm/aacgm.1.10/include/aacgm.h -> ./aacgm.h
+insthdr
+Package Source Directory:../../code/src.lib/superdarn
+Destination Directory:superdarn
+Abort on failure:yes
+Link most recent version of headers:yes
+================================================================================
+Creating destination directory.
+Located Libraries:
+1.../../code/src.lib/superdarn/csd.1.11
+2.../../code/src.lib/superdarn/fit.1.24
+3.../../code/src.lib/superdarn/idl/rposidl.1.03
+4.../../code/src.lib/superdarn/idl/oldcnvmapidl.1.02
+5.../../code/src.lib/superdarn/idl/radaridl.1.01
+6.../../code/src.lib/superdarn/idl/fitidl.1.05
+7.../../code/src.lib/superdarn/idl/grdidl.1.02
+8.../../code/src.lib/superdarn/idl/rawidl.1.06
+9.../../code/src.lib/superdarn/idl/oldfitidl.1.04
+10.../../code/src.lib/superdarn/idl/oldgrdidl.1.02
+11.../../code/src.lib/superdarn/idl/cnvmapidl.1.03
+12.../../code/src.lib/superdarn/idl/oldrawidl.1.04
+13.../../code/src.lib/superdarn/idl/iqidl.1.02
+14.../../code/src.lib/superdarn/raw.1.14
+15.../../code/src.lib/superdarn/shf.1.08
+16.../../code/src.lib/superdarn/smr.1.05
+17.../../code/src.lib/superdarn/cfit.1.11
+18.../../code/src.lib/superdarn/grid.1.16
+19.../../code/src.lib/superdarn/scan.1.04
+20.../../code/src.lib/superdarn/rpos.1.04
+21.../../code/src.lib/superdarn/radar.1.09
+22.../../code/src.lib/superdarn/cnvmap.1.09
+23.../../code/src.lib/superdarn/filter.1.05
+24.../../code/src.lib/superdarn/fitacf.2.00
+25.../../code/src.lib/superdarn/fitcnx.1.11
+26.../../code/src.lib/superdarn/gtable.1.05
+27.../../code/src.lib/superdarn/gtablewrite.1.05
+28.../../code/src.lib/superdarn/oldfit.1.19
+29.../../code/src.lib/superdarn/oldraw.1.11
+30.../../code/src.lib/superdarn/oldgrid.1.02
+31.../../code/src.lib/superdarn/oldcnvmap.1.01
+32.../../code/src.lib/superdarn/oldfitacf.1.02
+33.../../code/src.lib/superdarn/oldfitcnx.1.06
+34.../../code/src.lib/superdarn/oldgtablewrite.1.02
+35.../../code/src.lib/superdarn/fitacfex.1.06
+36.../../code/src.lib/superdarn/acf.1.10
+37.../../code/src.lib/superdarn/iqsample.1.07
+38.../../code/src.lib/superdarn/acfex.1.08
+39.../../code/src.lib/superdarn/tsg.1.11
+================================================================================
+../../code/src.lib/superdarn/csd.1.11/include/csdwrite.h -> ./csdwrite.h
+../../code/src.lib/superdarn/csd.1.11/include/csdread.h -> ./csdread.h
+../../code/src.lib/superdarn/csd.1.11/include/csddata.h -> ./csddata.h
+../../code/src.lib/superdarn/csd.1.11/include/csdscan.h -> ./csdscan.h
+../../code/src.lib/superdarn/fit.1.24/include/fitseek.h -> ./fitseek.h
+../../code/src.lib/superdarn/fit.1.24/include/fitcsd.h -> ./fitcsd.h
+../../code/src.lib/superdarn/fit.1.24/include/fitwrite.h -> ./fitwrite.h
+../../code/src.lib/superdarn/fit.1.24/include/fitread.h -> ./fitread.h
+../../code/src.lib/superdarn/fit.1.24/include/fitdata.h -> ./fitdata.h
+../../code/src.lib/superdarn/fit.1.24/include/fitcfit.h -> ./fitcfit.h
+../../code/src.lib/superdarn/fit.1.24/include/fitscan.h -> ./fitscan.h
+../../code/src.lib/superdarn/fit.1.24/include/fitindex.h -> ./fitindex.h
+../../code/src.lib/superdarn/idl/oldcnvmapidl.1.02/include/oldcnvmapidl.h -> ./oldcnvmapidl.h
+../../code/src.lib/superdarn/idl/radaridl.1.01/include/rprmidl.h -> ./rprmidl.h
+../../code/src.lib/superdarn/idl/fitidl.1.05/include/fitdataidl.h -> ./fitdataidl.h
+../../code/src.lib/superdarn/idl/fitidl.1.05/include/fitidl.h -> ./fitidl.h
+../../code/src.lib/superdarn/idl/grdidl.1.02/include/griddataidl.h -> ./griddataidl.h
+../../code/src.lib/superdarn/idl/grdidl.1.02/include/grdidl.h -> ./grdidl.h
+../../code/src.lib/superdarn/idl/rawidl.1.06/include/rawidl.h -> ./rawidl.h
+../../code/src.lib/superdarn/idl/rawidl.1.06/include/rawdataidl.h -> ./rawdataidl.h
+../../code/src.lib/superdarn/idl/oldfitidl.1.04/include/oldfitidl.h -> ./oldfitidl.h
+../../code/src.lib/superdarn/idl/oldgrdidl.1.02/include/oldgrdidl.h -> ./oldgrdidl.h
+../../code/src.lib/superdarn/idl/cnvmapidl.1.03/include/cnvmapdataidl.h -> ./cnvmapdataidl.h
+../../code/src.lib/superdarn/idl/cnvmapidl.1.03/include/cnvmapidl.h -> ./cnvmapidl.h
+../../code/src.lib/superdarn/idl/oldrawidl.1.04/include/oldrawidl.h -> ./oldrawidl.h
+../../code/src.lib/superdarn/idl/iqidl.1.02/include/iqdataidl.h -> ./iqdataidl.h
+../../code/src.lib/superdarn/idl/iqidl.1.02/include/iqidl.h -> ./iqidl.h
+../../code/src.lib/superdarn/raw.1.14/include/rawdata.h -> ./rawdata.h
+../../code/src.lib/superdarn/raw.1.14/include/rawindex.h -> ./rawindex.h
+../../code/src.lib/superdarn/raw.1.14/include/rawseek.h -> ./rawseek.h
+../../code/src.lib/superdarn/raw.1.14/include/rawread.h -> ./rawread.h
+../../code/src.lib/superdarn/raw.1.14/include/rawwrite.h -> ./rawwrite.h
+../../code/src.lib/superdarn/shf.1.08/include/shfconst.h -> ./shfconst.h
+../../code/src.lib/superdarn/shf.1.08/include/fitmap.h -> ./fitmap.h
+../../code/src.lib/superdarn/shf.1.08/include/evalvelocity.h -> ./evalvelocity.h
+../../code/src.lib/superdarn/shf.1.08/include/crdshft.h -> ./crdshft.h
+../../code/src.lib/superdarn/shf.1.08/include/evalefield.h -> ./evalefield.h
+../../code/src.lib/superdarn/shf.1.08/include/cnvmap.h -> ./cnvmap.h
+../../code/src.lib/superdarn/shf.1.08/include/evallegendre.h -> ./evallegendre.h
+../../code/src.lib/superdarn/shf.1.08/include/cnvmapsolve.h -> ./cnvmapsolve.h
+../../code/src.lib/superdarn/shf.1.08/include/evalpotential.h -> ./evalpotential.h
+../../code/src.lib/superdarn/shf.1.08/include/cnvgrid.h -> ./cnvgrid.h
+../../code/src.lib/superdarn/smr.1.05/include/smrscan.h -> ./smrscan.h
+../../code/src.lib/superdarn/smr.1.05/include/smrseek.h -> ./smrseek.h
+../../code/src.lib/superdarn/smr.1.05/include/smrwrite.h -> ./smrwrite.h
+../../code/src.lib/superdarn/smr.1.05/include/smrread.h -> ./smrread.h
+../../code/src.lib/superdarn/cfit.1.11/include/cfitcsd.h -> ./cfitcsd.h
+../../code/src.lib/superdarn/cfit.1.11/include/cfitwrite.h -> ./cfitwrite.h
+../../code/src.lib/superdarn/cfit.1.11/include/cfitread.h -> ./cfitread.h
+../../code/src.lib/superdarn/cfit.1.11/include/cfitdata.h -> ./cfitdata.h
+../../code/src.lib/superdarn/cfit.1.11/include/cfitscan.h -> ./cfitscan.h
+../../code/src.lib/superdarn/grid.1.16/include/gridseek.h -> ./gridseek.h
+../../code/src.lib/superdarn/grid.1.16/include/gridwrite.h -> ./gridwrite.h
+../../code/src.lib/superdarn/grid.1.16/include/gridread.h -> ./gridread.h
+../../code/src.lib/superdarn/grid.1.16/include/griddata.h -> ./griddata.h
+../../code/src.lib/superdarn/grid.1.16/include/gridindex.h -> ./gridindex.h
+../../code/src.lib/superdarn/scan.1.04/include/scandata.h -> ./scandata.h
+../../code/src.lib/superdarn/rpos.1.04/include/invmag.h -> ./invmag.h
+../../code/src.lib/superdarn/rpos.1.04/include/rpos.h -> ./rpos.h
+../../code/src.lib/superdarn/rpos.1.04/include/calcvector.h -> ./calcvector.h
+../../code/src.lib/superdarn/radar.1.09/include/limit.h -> ./limit.h
+../../code/src.lib/superdarn/radar.1.09/include/rprm.h -> ./rprm.h
+../../code/src.lib/superdarn/radar.1.09/include/radar.h -> ./radar.h
+../../code/src.lib/superdarn/cnvmap.1.09/include/cnvmapindex.h -> ./cnvmapindex.h
+../../code/src.lib/superdarn/cnvmap.1.09/include/cnvmapseek.h -> ./cnvmapseek.h
+../../code/src.lib/superdarn/cnvmap.1.09/include/cnvmapwrite.h -> ./cnvmapwrite.h
+../../code/src.lib/superdarn/cnvmap.1.09/include/cnvmapread.h -> ./cnvmapread.h
+../../code/src.lib/superdarn/filter.1.05/include/checkops.h -> ./checkops.h
+../../code/src.lib/superdarn/filter.1.05/include/filter.h -> ./filter.h
+../../code/src.lib/superdarn/filter.1.05/include/bound.h -> ./bound.h
+../../code/src.lib/superdarn/fitacf.2.00/include/badlags.h -> ./badlags.h
+../../code/src.lib/superdarn/fitacf.2.00/include/badsmp.h -> ./badsmp.h
+../../code/src.lib/superdarn/fitacf.2.00/include/fitacf.h -> ./fitacf.h
+../../code/src.lib/superdarn/fitacf.2.00/include/dofit.h -> ./dofit.h
+../../code/src.lib/superdarn/fitacf.2.00/include/fitblk.h -> ./fitblk.h
+../../code/src.lib/superdarn/fitcnx.1.11/include/fitcnx.h -> ./fitcnx.h
+../../code/src.lib/superdarn/gtable.1.05/include/gtable.h -> ./gtable.h
+../../code/src.lib/superdarn/gtablewrite.1.05/include/gtablewrite.h -> ./gtablewrite.h
+../../code/src.lib/superdarn/oldfit.1.19/include/oldfitscan.h -> ./oldfitscan.h
+../../code/src.lib/superdarn/oldfit.1.19/include/oldfitwrite.h -> ./oldfitwrite.h
+../../code/src.lib/superdarn/oldfit.1.19/include/oldfitread.h -> ./oldfitread.h
+../../code/src.lib/superdarn/oldraw.1.11/include/oldrawread.h -> ./oldrawread.h
+../../code/src.lib/superdarn/oldraw.1.11/include/oldrawwrite.h -> ./oldrawwrite.h
+../../code/src.lib/superdarn/oldgrid.1.02/include/oldgridread.h -> ./oldgridread.h
+../../code/src.lib/superdarn/oldgrid.1.02/include/oldgridwrite.h -> ./oldgridwrite.h
+../../code/src.lib/superdarn/oldcnvmap.1.01/include/oldcnvmapread.h -> ./oldcnvmapread.h
+../../code/src.lib/superdarn/oldcnvmap.1.01/include/oldcnvmapwrite.h -> ./oldcnvmapwrite.h
+../../code/src.lib/superdarn/oldfitacf.1.02/include/oldfitacf.h -> ./oldfitacf.h
+../../code/src.lib/superdarn/oldfitcnx.1.06/include/oldfitcnx.h -> ./oldfitcnx.h
+../../code/src.lib/superdarn/oldgtablewrite.1.02/include/oldgtablewrite.h -> ./oldgtablewrite.h
+../../code/src.lib/superdarn/fitacfex.1.06/include/fitacfex.h -> ./fitacfex.h
+../../code/src.lib/superdarn/acf.1.10/include/acf.h -> ./acf.h
+../../code/src.lib/superdarn/iqsample.1.07/include/iqdata.h -> ./iqdata.h
+../../code/src.lib/superdarn/iqsample.1.07/include/iqindex.h -> ./iqindex.h
+../../code/src.lib/superdarn/iqsample.1.07/include/iqread.h -> ./iqread.h
+../../code/src.lib/superdarn/iqsample.1.07/include/iqseek.h -> ./iqseek.h
+../../code/src.lib/superdarn/iqsample.1.07/include/iqwrite.h -> ./iqwrite.h
+../../code/src.lib/superdarn/acfex.1.08/include/acfex.h -> ./acfex.h
+../../code/src.lib/superdarn/tsg.1.11/include/tsgtable.h -> ./tsgtable.h
+../../code/src.lib/superdarn/tsg.1.11/include/tsg.h -> ./tsg.h
+../../code/src.lib/superdarn/tsg.1.11/include/maketsg.h -> ./maketsg.h
+insthdr
+Package Source Directory:../../code/src.lib/imagery
+Destination Directory:imagery
+Abort on failure:yes
+Link most recent version of headers:yes
+================================================================================
+Creating destination directory.
+Located Libraries:
+1.../../code/src.lib/imagery/sza.1.03
+2.../../code/src.lib/imagery/phong.1.02
+3.../../code/src.lib/imagery/elevation.1.03
+4.../../code/src.lib/imagery/geomap.1.01
+5.../../code/src.lib/imagery/simage.1.08
+6.../../code/src.lib/imagery/szamap.1.03
+================================================================================
+../../code/src.lib/imagery/sza.1.03/include/sza.h -> ./sza.h
+../../code/src.lib/imagery/phong.1.02/include/phong.h -> ./phong.h
+../../code/src.lib/imagery/elevation.1.03/include/eldata.h -> ./eldata.h
+../../code/src.lib/imagery/geomap.1.01/include/gmap.h -> ./gmap.h
+../../code/src.lib/imagery/simage.1.08/include/simage.h -> ./simage.h
+../../code/src.lib/imagery/simage.1.08/include/simageseek.h -> ./simageseek.h
+../../code/src.lib/imagery/simage.1.08/include/simageindex.h -> ./simageindex.h
+../../code/src.lib/imagery/szamap.1.03/include/szamap.h -> ./szamap.h
