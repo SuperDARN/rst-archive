@@ -1,0 +1,27 @@
+# $Log: version.info,v $
+# Revision 1.4  2006/04/13 15:56:40  barnes
+# Fixed bug in loading radar hardware.
+#
+# Revision 1.3  2006/03/16 20:58:02  barnes
+# Modifications to deal with radars with extra beams.
+#
+# Revision 1.2  2006/02/09 18:48:07  barnes
+# Changed microseconds to long integers.
+#
+# Revision 1.1  2005/07/06 20:47:00  barnes
+# Initial revision
+#
+#
+cfit.pro 1.03
+cnvmap.pro 1.02
+fitacf.pro 1.02
+fitcnx.pro 1.01
+fit.pro 1.05
+grd.pro 1.02
+oldcnvmap.pro 1.02
+oldfit.pro 1.06
+oldgrd.pro 1.09
+oldraw.pro 1.08
+radar.pro 1.05
+raw.pro 1.05
+rprm.pro 1.03

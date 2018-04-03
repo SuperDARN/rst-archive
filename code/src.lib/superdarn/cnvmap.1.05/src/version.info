@@ -1,0 +1,21 @@
+# $Log: version.info,v $
+# Revision 1.5  2005/01/13 14:54:10  barnes
+# Fixed data types.
+#
+# Revision 1.4  2004/10/12 23:21:07  barnes
+# Added search and index functions.
+#
+# Revision 1.3  2004/10/12 22:28:48  barnes
+# Fixed missing strings.
+#
+# Revision 1.2  2004/10/12 21:45:00  barnes
+# Moved to the DataMap format.
+#
+# Revision 1.1  2004/08/20 13:35:58  barnes
+# Initial revision
+#
+#
+readmap.c 1.03
+writemap.c 1.03
+mapseek.c 1.02
+mapinx.c 1.02

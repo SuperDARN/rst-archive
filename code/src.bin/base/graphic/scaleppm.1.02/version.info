@@ -1,0 +1,9 @@
+# $Log: version.info,v $
+# Revision 1.2  2005/08/05 20:27:57  barnes
+# Added option to dump the command line options
+#
+# Revision 1.1  2004/05/10 18:41:59  barnes
+# Initial revision
+#
+#
+scaleppm.c 1.03

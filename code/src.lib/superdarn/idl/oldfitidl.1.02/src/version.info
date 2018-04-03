@@ -1,0 +1,9 @@
+# $Log: version.info,v $
+# Revision 1.2  2004/08/27 19:32:15  barnes
+# Added function to set the file pointer.
+#
+# Revision 1.1  2004/08/25 20:15:03  barnes
+# Initial revision
+#
+#
+oldfitidl.c 1.03

@@ -1,0 +1,47 @@
+#!/bin/sh
+
+$HOMEPATH/bin/insthdr -vb $CODEBASE/src.lib/base $IPATH/base >> $LOGPATH/superdarn-toolkit.2.05.hdr
+$HOMEPATH/bin/insthdr -vb $CODEBASE/src.lib/general $IPATH/general >> $LOGPATH/superdarn-toolkit.2.05.hdr
+$HOMEPATH/bin/insthdr -vb $CODEBASE/src.lib/analysis $IPATH/analysis >> $LOGPATH/superdarn-toolkit.2.05.hdr
+$HOMEPATH/bin/insthdr -vb $CODEBASE/src.lib/superdarn $IPATH/superdarn >> $LOGPATH/superdarn-toolkit.2.05.hdr
+$HOMEPATH/bin/insthdr -vb $CODEBASE/src.lib/imagery $IPATH/imagery >> $LOGPATH/superdarn-toolkit.2.05.hdr
+
+# now link the IDL libraries
+
+ if test ! -d $HOMEPATH/idl/lib
+ then
+   mkdir $HOMEPATH/idl/lib
+ fi
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/legacy.1.01/maplib.pro           ${HOMEPATH}/idl/lib/maplib.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/legacy.1.01/istplib.pro           ${HOMEPATH}/idl/lib/istplib.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/legacy.1.01/rbposlib.pro           ${HOMEPATH}/idl/lib/rbposlib.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/legacy.1.01/acflib.pro           ${HOMEPATH}/idl/lib/acflib.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/legacy.1.01/geoplib.pro           ${HOMEPATH}/idl/lib/geoplib.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/legacy.1.01/fitlib.pro           ${HOMEPATH}/idl/lib/fitlib.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/legacy.1.01/aacgmlib.pro           ${HOMEPATH}/idl/lib/aacgmlib.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/legacy.1.01/genlib.pro           ${HOMEPATH}/idl/lib/genlib.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/legacy.1.01/rawlib.pro           ${HOMEPATH}/idl/lib/rawlib.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/legacy.1.01/global.pro           ${HOMEPATH}/idl/lib/global.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/legacy.1.01/gridlib.pro           ${HOMEPATH}/idl/lib/gridlib.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/legacy.1.01/igrflib.pro           ${HOMEPATH}/idl/lib/igrflib.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/efield.1.02/efield.pro           ${HOMEPATH}/idl/lib/efield.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/main.1.04/raw.pro           ${HOMEPATH}/idl/lib/raw.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/main.1.04/fitcnx.pro           ${HOMEPATH}/idl/lib/fitcnx.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/main.1.04/cfit.pro           ${HOMEPATH}/idl/lib/cfit.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/main.1.04/oldraw.pro           ${HOMEPATH}/idl/lib/oldraw.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/main.1.04/fit.pro           ${HOMEPATH}/idl/lib/fit.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/main.1.04/oldcnvmap.pro           ${HOMEPATH}/idl/lib/oldcnvmap.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/main.1.04/fitacf.pro           ${HOMEPATH}/idl/lib/fitacf.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/main.1.04/grd.pro           ${HOMEPATH}/idl/lib/grd.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/main.1.04/cnvmap.pro           ${HOMEPATH}/idl/lib/cnvmap.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/main.1.04/rprm.pro           ${HOMEPATH}/idl/lib/rprm.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/main.1.04/oldfit.pro           ${HOMEPATH}/idl/lib/oldfit.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/main.1.04/radar.pro           ${HOMEPATH}/idl/lib/radar.pro
+ln -sf ${CODEBASE}/src.idl/lib/superdarn/main.1.04/oldgrd.pro           ${HOMEPATH}/idl/lib/oldgrd.pro
+ln -sf ${CODEBASE}/src.idl/lib/general/time.1.01/time.pro           ${HOMEPATH}/idl/lib/time.pro
+ln -sf ${CODEBASE}/src.idl/lib/general/datamap.1.03/datamap.pro           ${HOMEPATH}/idl/lib/datamap.pro
+ln -sf ${CODEBASE}/src.idl/lib/analysis/igrf.1.01/igrf.pro           ${HOMEPATH}/idl/lib/igrf.pro
+ln -sf ${CODEBASE}/src.idl/lib/analysis/aacgm.1.02/aacgm.pro           ${HOMEPATH}/idl/lib/aacgm.pro
+ln -sf ${CODEBASE}/src.idl/lib/analysis/aacgm.1.02/aacgmdefault.pro           ${HOMEPATH}/idl/lib/aacgmdefault.pro
+ln -sf ${CODEBASE}/src.idl/lib/analysis/geop.1.01/geop.pro           ${HOMEPATH}/idl/lib/geop.pro
+ln -sf ${CODEBASE}/src.idl/app/superdarn/makefit.1.03           ${HOMEPATH}/idl/makefit.1.03
