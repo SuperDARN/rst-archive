@@ -1,0 +1,9 @@
+*.a
+*.so
+*.o
+bin/
+build/lib/
+lib/
+log/
+usr/lib/
+usr/bin/
