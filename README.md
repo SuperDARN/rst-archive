@@ -26,5 +26,6 @@ This repository contains an archive of the SuperDARN Radar Software Toolkit (RST
 | RST 4.5 | [rst.4.5](../../tree/rst.4.5) | 2021-01-12 |
 | RST 4.6 | [rst.4.6](../../tree/rst.4.6) | 2021-08-03 |
 | RST 4.7 | [rst.4.7](../../tree/rst.4.7) | 2022-04-20 |
+| RST 5.0 | [rst.5.0](../../tree/rst.5.0) | 2022-12-21 |
 
 The RST was originally developed and distributed by Rob Barnes at JHU/APL. As of version 4.0, the SuperDARN Data Analysis Working Group (DAWG) is responsible for the maintenance and distribution of the RST.
